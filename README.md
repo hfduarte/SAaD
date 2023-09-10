@@ -1,2 +1,0 @@
-# SAaD
-Test repository.
